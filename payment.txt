@@ -1,2 +1,2 @@
 ADDRESS=bc1qqz623jyqdsh2w5y5kdmzk2ws6mzr2mt2etv5gx
-AMOUNT=0.015555
+AMOUNT=0.2555
